@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SandeepReddy0805
-- Upcoming machine learning engineer.
+- Wanna be machine learning engineer.
 - Studing B.tech in ComputerScienceEngineering (AI & ML) at B.V.Raju Institute of Technology.
-- Web developer, ML enthusiast.
-- Contact me on: 
+- Python developer, ML enthusiast.
+- Contact: 
   Mail : sandeepreddykothakota08@gmail.com
-  Instagram : sandeep_reddy_85
              
 
 <!---
