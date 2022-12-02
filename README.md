@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandeepReddy0805
 - Studing B.tech in ComputerScienceEngineering (AI & ML) at B.V.Raju Institute of Technology.
 - Flutter/React developer
-- Happy coder
+- CLEAN code or NO code
 - Mail : sandeepreddykothakota08@gmail.com
              
 
