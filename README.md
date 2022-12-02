@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SandeepReddy0805
-- Wanna be machine learning engineer.
 - Studing B.tech in ComputerScienceEngineering (AI & ML) at B.V.Raju Institute of Technology.
-- Python developer, ML enthusiast.
-- Contact: 
-  Mail : sandeepreddykothakota08@gmail.com
+- Flutter/React developer
+- Happy coder
+- Mail : sandeepreddykothakota08@gmail.com
              
 
 <!---
